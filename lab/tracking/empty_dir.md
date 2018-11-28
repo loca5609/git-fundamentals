@@ -1,6 +1,6 @@
 # Question
 Does git track empty directories? 
 - [ ] Yes
-- [ ] No
+- [X] No
 
 # Explanation
